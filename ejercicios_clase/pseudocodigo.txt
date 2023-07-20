@@ -1,0 +1,29 @@
+realiza un pseudicodigo que diga si una persona es mayor de edad o no, para eso debe pedirse una edad
+
+entradas:
+edad
+
+salida:
+si es mayor de edad o no
+
+
+variables:
+edad: numerico entero
+
+
+pseudicodigo:
+
+inicio
+
+edad=pedir un entero
+
+si edad>=18 entonces:
+   decir que es mayor de edad
+de otro modo:
+   es menor de edad
+
+fin
+
+
+
+
