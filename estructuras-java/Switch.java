@@ -18,7 +18,7 @@ public class Switch {
         }
     }
 }
-// En este ejemplo, el valor de x se compara con los valores especificados 
-// en cada caso (case) y se ejecuta el código correspondiente al caso que 
-// coincida con el valor de x. Si no hay ningún caso que coincida con el valor 
-// de x, se ejecuta el código del caso por defecto (default). 
+// En este ejemplo, el valor de x se compara con los valores especificados
+// en cada caso (case) y se ejecuta el código correspondiente al caso que
+// coincida con el valor de x. Si no hay ningún caso que coincida con el valor
+// de x, se ejecuta el código del caso por defecto (default).

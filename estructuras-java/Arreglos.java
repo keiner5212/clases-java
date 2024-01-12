@@ -11,7 +11,7 @@ public class Arreglos {
         arreglo1[4] = 5;
 
         // Definir un arreglo con valores iniciales
-        int[] numeros = {1, 2, 3, 4, 5};
+        int[] numeros = { 1, 2, 3, 4, 5 };
 
         // Recorrer un arreglo con un bucle for
         for (int i = 0; i < numeros.length; i++) {

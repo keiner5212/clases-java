@@ -10,6 +10,8 @@ public class TiposDeDatos {
 
         // Tipos de referencia
         String s = "Hola"; // Cadena de caracteres
-        int[] a = {1, 2, 3}; // Arreglo de enteros
+        int[] a = { 1, 2, 3 }; // Arreglo de enteros
+
+        System.err.println(x + " " + y + " " + z + " " + w + " " + c + " " + b + " " + s + " " + a);
     }
 }

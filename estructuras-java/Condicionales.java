@@ -25,7 +25,6 @@ public class Condicionales {
     }
 }
 
-
-// Las estructuras condicionales en Java te permiten ejecutar ciertas partes del 
-// código solo si se cumple una condición específica. La estructura condicional 
+// Las estructuras condicionales en Java te permiten ejecutar ciertas partes del
+// código solo si se cumple una condición específica. La estructura condicional
 // más común en Java es la sentencia if.
